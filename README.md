@@ -5,7 +5,7 @@ This repository contains a custom Java neural network library, including activat
 ---
 
 ## File Structure
-
+```
 src/
 └── ifndef/
     └── nn/
@@ -40,7 +40,7 @@ src/
         │   └── TrainedModel.java
         │
         └── Main.java
-
+```
 
 ---
 
@@ -106,6 +106,7 @@ src/
 1. Clone the repository:
 2. In project folder, open terminal and run this command in order to compile : javac -d bin -sourcepath src src/ifndef/nn/Main.java
 3. java -cp bin ifndef.nn.Main write this afterwards in order to execute the code.
+
 
 
 
